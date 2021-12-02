@@ -1,0 +1,7 @@
+body  {
+    background-image: url("THThumbnail1.jpg");
+    background-repeat: no-repeat, repeat;
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+  }
